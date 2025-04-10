@@ -1,0 +1,29 @@
+# Node
+node_modules/
+*.log
+
+# Next.js
+.next/
+out/
+
+# Bun
+bun.lockb
+
+# Environment
+.env*
+!.env.example
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCODE
+.vscode/
+
+# OS
+*.swp
+
+# Others
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
